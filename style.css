@@ -1,0 +1,114 @@
+.menu .quanao{
+    border: gray solid 2px;
+    background-color: antiquewhite;
+    padding: 8px;
+    width:200px;
+}
+.menu .quanao:hover{
+    background-color: #0056A6;
+}
+.menu .giaydep{
+    margin-top: -2px;
+    border: gray solid 2px;
+    background-color: antiquewhite;
+    padding: 8px;
+    width:200px;
+}
+.menu .giaydep:hover{
+    background-color: #0056A6;
+}
+.menu .mu{
+    margin-top: -2px;
+    border: gray solid 2px;
+    background-color: antiquewhite;
+    padding: 8px;
+    width:200px;
+}
+.menu .mu:hover{
+    background-color: #0056A6;
+}
+.menu .khan{
+    margin-top: -2px;
+    border: gray solid 2px;
+    background-color: antiquewhite;
+    padding: 8px;
+    width:200px;
+}
+.menu .khan:hover{
+    background-color: #0056A6;
+}
+.menu .gangtay{
+    margin-top: -2px;
+    border: gray solid 2px;
+    background-color: antiquewhite;
+    padding: 8px;
+    width:200px;
+}
+.menu .gangtay:hover{
+    background-color: #0056A6;
+}
+/*Section two*/
+i{
+    color: black;
+}
+.google {
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    padding: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+    color: black;
+}
+.google:hover{
+    background-color: #A64200;
+    color: white;
+}
+.facebook{
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    padding: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+    color: black;
+}
+.facebook:hover{
+    background-color: #A64200;
+    color: white;
+}
+.tiktok{
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    padding: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+    color: black;
+}
+.tiktok:hover{
+    background-color: #A64200;
+    color: white;
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    padding: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+    color: black;
+}
+.instagram:hover{
+    background-color: #A64200;
+    color: white;
+}
+/*End Section two*/

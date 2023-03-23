@@ -1,0 +1,118 @@
+
+* {
+    box-sizing: border-box;
+}
+.menu{
+    background-color: #E25300;
+    border-radius: 8px;
+    position: sticky;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    padding: 14px 25px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.menu div{
+    display: inline-block;
+    margin-right: 25px;
+}
+.bigbox{
+    width:100%;
+    height: 1000px;
+    background-color: #CCCCCC;
+    position: relative;
+    border-radius: 8px;
+}
+.box1{
+    width: 100px;
+    height: 60px;
+    background-color: #D44E00;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+}
+.box2{
+    width: 100px;
+    height: 60px;
+    background-color: #D40000;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.box3{
+    width: 100px;
+    height: 60px;
+    background-color: #2A00D4;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    top: 850px;
+}
+.box4{
+    width: 100px;
+    height: 60px;
+    background-color: #369400;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    position: absolute;
+    right: 50px;
+    bottom: 20px;
+}
+.bigbox-2{
+    background-color: #0065BC;
+    width: 100%;
+    height: 350px;
+    border-radius: 8px;
+    margin-top: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.text{
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+    left: 50px;
+    right: 50px;
+    color: white;
+}
+.circle-1{
+    background-color: #00539B;
+    width:120px;
+    height:120px;
+    border-radius:100px;
+    position: absolute;
+    top:50px;
+    left: 25px;
+}  
+.text::first-letter{
+    font-size: 50px;
+}
+.text::first-line{
+    font-size: 20px;
+}
+.circle-2{
+    background-color: #00539B;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    bottom: -50px;
+    right: -25px;
+}
